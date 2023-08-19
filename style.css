@@ -1,0 +1,15 @@
+/*Swiperで実装する際に必須であるCSSのclassが存在します*/
+/*swiper（スライドショー箇所全体を内包する要素）*/
+/*swiper-wrapper（スライド部を内包する要素）*/
+/*swiper-slide（各スライドを入れる要素）*/
+
+
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+
+:root {
+  --swiper-navigation-color: #ffffff;
+  --swiper-pagination-color: #ffffff;
+}
